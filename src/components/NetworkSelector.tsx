@@ -3,5 +3,9 @@ interface Props {
 }
 
 export default function NetworkSelector(props: Props) {
-
+  return (
+    <>
+      <div>NetworkSelector</div>
+    </>
+  )
 }

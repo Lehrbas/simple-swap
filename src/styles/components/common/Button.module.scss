@@ -1,0 +1,27 @@
+.btn {
+  border: 1px solid rgba(40, 87, 76, 0.5);
+  border-radius: 12px;
+  background-color: #120724 ;
+  opacity: 0.7;
+  cursor: pointer;
+
+  &:hover {
+    border: 1px solid rgba(40, 87, 76, 0.1);
+  }
+}
+
+.sm {
+  padding: 6px 18px;
+}
+
+.md {
+  padding: 6px 52px;
+}
+
+.lg {
+  padding: 6px 64px;
+}
+
+.xlg {
+  padding: 6px 82px;
+}
